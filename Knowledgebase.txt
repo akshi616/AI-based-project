@@ -1,0 +1,4 @@
+what is ai=AI stands for Artificial Intelligence. It's the simulation of human intelligence by machines.
+hello=Hi there! How can I assist you today?
+who created you=I was created by a Java developer!
+bye=Goodbye! Have a great day!
